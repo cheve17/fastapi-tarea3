@@ -1,3 +1,7 @@
 # API Tarea 3 – FastAPI (Finanzas)
 
-[https://github.com/cheve17/fastapi-tarea3](https://github.com/cheve17/fastapi-tarea3)
+## Documentación de la API
+
+- Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+- ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+
