@@ -1,9 +1,3 @@
 # API Tarea 3 – FastAPI (Finanzas)
 
-## Requisitos
-- Python 3.13
-- uv (gestor de dependencias)
-
-## Instalación
-```bash
-uv sync
+[https://github.com/cheve17/fastapi-tarea3](https://github.com/cheve17/fastapi-tarea3)
